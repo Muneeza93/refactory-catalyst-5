@@ -1,8 +1,8 @@
-body {background-color: rgba yellowgreen;}
+body {background-color: rgb 176, 138, 135;}
 h1 {color :turquoise; }
-     p {color:maroon; font-weight:300; font-style:italic}
+     p {color:maroon; font-weight:300; font-style:normal}
 
-     #second-paragraph {color:magenta; font-style:normal}
+     #second-paragraph {color:magenta; font-style:italic}
      #third-paragraph {color:midnightblue}
      .green-paras {color:green}
      .red-paras {color:red}
